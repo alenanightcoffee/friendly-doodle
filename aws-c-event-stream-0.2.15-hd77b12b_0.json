@@ -1,0 +1,48 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "aws-checksums >=0.1.13,<0.1.14.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-event-stream-0.2.15-hd77b12b_0",
+  "files": [
+    "Library/bin/aws-c-event-stream.dll",
+    "Library/include/aws/event-stream/event_stream.h",
+    "Library/include/aws/event-stream/event_stream_channel_handler.h",
+    "Library/include/aws/event-stream/event_stream_exports.h",
+    "Library/include/aws/event-stream/event_stream_rpc.h",
+    "Library/include/aws/event-stream/event_stream_rpc_client.h",
+    "Library/include/aws/event-stream/event_stream_rpc_server.h",
+    "Library/lib/aws-c-event-stream.lib",
+    "Library/lib/aws-c-event-stream/cmake/aws-c-event-stream-config.cmake",
+    "Library/lib/aws-c-event-stream/cmake/shared/aws-c-event-stream-targets-release.cmake",
+    "Library/lib/aws-c-event-stream/cmake/shared/aws-c-event-stream-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-event-stream-0.2.15-hd77b12b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-event-stream-0.2.15-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "9810d4c1d836006973174d6ca5d99120",
+  "name": "aws-c-event-stream",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-event-stream-0.2.15-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-event-stream==0.2.15=hd77b12b_0[md5=9810d4c1d836006973174d6ca5d99120]",
+  "sha256": "bfb20686b2ba5a586eab9429197b0493ba4d1b6965b2e157992049122bd6a6c9",
+  "size": 51383,
+  "subdir": "win-64",
+  "timestamp": 1706697357000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-event-stream-0.2.15-hd77b12b_0.conda",
+  "version": "0.2.15"
+}
